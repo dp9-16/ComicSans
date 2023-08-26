@@ -30,6 +30,12 @@ An `nvmrc` file is included if using [nvm](https://github.com/creationix/nvm).
 ## Development
 
 This App uses React with CSS to style and render product information given from the product API.
+This App includes:
+1. A Homepage to retrieve a Product ID.
+1. An Overview widget which displays the images and styles of the product id.
+1. A Related Products/Your Outfit Products widget which displays a selection of similar products.
+1. A Questions and Answers widget which displays questions/answers related to the product.
+1. A Ratings and Reviews widget which displays overall rating and reviews of the product.
 
 ### Installing Dependencies
 

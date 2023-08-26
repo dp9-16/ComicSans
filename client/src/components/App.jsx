@@ -36,7 +36,7 @@ const App = () => {
           <Overview id={productId} setOutfitImage={setOutfitImage} setOutfitInfo={setOutfitInfo}/>
           <RIC product_id={productId} setProductId={setProductId} outfitInfo={outfitInfo} outfitImage={outfitImage} productRating={productRating}/>
           <QA product_id={productId}/>
-          <RatingsReviews id={productId} setProductRating={setProductRating}/>
+          <RatingsReviews id={37312} setProductRating={setProductRating}/>
         </div>) : (<HomePage set={handleClick}/>)
       }
     </div>

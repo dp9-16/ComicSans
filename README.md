@@ -1,9 +1,9 @@
 
-# FEC
+# Comic Sans
 
 # Project Name
 
-> The  Front End Capstone is a project meant to test our front-end skils.  We will be designing and created the web page for a clothing products website. Based off of [this mockup](https://xd.adobe.com/view/e600dc0f-454c-44e3-5075-7872d04189ff-9031/?fullscreen) and [these business requirements](http://www.mks.io/catwalk-brd)
+> Comic Sans is a project meant to test our front-end skils.  We will be designing and created the web page for a clothing products website. Based off of [this mockup](https://xd.adobe.com/view/e600dc0f-454c-44e3-5075-7872d04189ff-9031/?fullscreen) and [these business requirements](http://www.mks.io/catwalk-brd)
 
 ## [Our Github Organization](https://github.com/FEC3-perrier)
 
